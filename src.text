@@ -1,0 +1,36 @@
+Software Requirements Specification (SRS) Document: Krishi SevaKendra
+
+
+    Purpose
+
+   The purpose of this document is to provide a detailed description of the requirements for the Krishi Seva Kendra system. It outlines the functional and non-functional requirements, constraints, and interfaces of the system.
+
+  Scope
+
+   The Krishi Seva Kendra is a web-based application that aims to provide agricultural services and information to farmers. The system will facilitate farmers in accessing resources such as crop information, weather updates, expert advice, and market prices. It will serve as a platform for farmers to enhance their knowledge and make informed decisions.
+
+ Functional Requirements
+
+   1 Farmer Registration and Profile Management
+       Farmers should be able to create a new account by providing their basic information.
+       Farmers should be able to update their profile and add details such as land area, crops cultivated, and contact information.
+
+   2 Crop Information and Recommendations
+      The system should provide farmers with comprehensive information on various crops, including planting techniques, fertilizers, pesticides, and disease management.
+       Based on the farmer's profile and geographical location, the system should recommend suitable crops for cultivation.
+
+  3 Weather Updates
+      The system should integrate with weather APIs or services to provide real-time weather updates.
+      Farmers should be able to view current weather conditions, forecasts, and alerts specific to their location.
+
+   4 Expert Advice and Forums
+       Farmers should have access to expert advice and guidance on agricultural practices.
+       The system should facilitate forums or chat features where farmers can interact with agricultural experts and seek assistance.
+
+   5 Market Prices
+       The system should provide information on market prices of various crops and commodities.
+       Farmers should be able to view current market prices and historical trends to make informed decisions about selling their produce.
+
+ 
+
+

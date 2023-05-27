@@ -1,0 +1,22 @@
+Business-
+
+   1 Security
+      - Farmer data and any personal information should be securely stored and accessible only to authorized users.
+      - User authentication and access control mechanisms should be implemented.
+      - Sensitive information should be encrypted to ensure data privacy.
+
+   2 Usability
+      - The user interface should be intuitive and user-friendly, considering the diverse user base of farmers.
+      - The system should be accessible on different devices, including mobile phones, as many farmers may have limited access to computers.
+ 3 Performance
+      - The system should be able to handle multiple concurrent user requests without significant performance degradation.
+      - The response time for fetching crop information, weather updates, and market prices should be minimal.
+
+ 4 Interfaces
+   - User Interface: The system will provide a web-based user interface for farmers to interact with.
+   - External APIs: The system will integrate with weather APIs and market price data sources to fetch relevant information.
+
+5 Constraints
+   - The Krishi Seva Kendra system will be developed as a web-based application.
+   - The system should be compatible with popular web browsers such as Chrome, Firefox, and Safari.
+   - The system should support multiple languages, considering the diverse language preferences of farmers.
